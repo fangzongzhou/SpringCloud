@@ -6,6 +6,9 @@
         <option value="$PROJECT_DIR$/asdf/pom.xml" />
         <option value="$PROJECT_DIR$/service-hi/pom.xml" />
         <option value="$PROJECT_DIR$/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/service-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
